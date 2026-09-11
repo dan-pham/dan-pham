@@ -1,9 +1,9 @@
 ## Hello, Dan here 👋
 
-iOS & full-stack engineer based in San Jose, CA.
+iOS & full-stack software engineer based in San Jose, CA.
 
-**What I work with:** Swift · SwiftUI · React Native · TypeScript · Node.js · Express · MERN Stack · Supabase · AWS
+At Filmadi, I own the SwiftUI app, the API, and the AWS infrastructure behind a professional networking app published on the App Store. Recently at Appstem, I maintained two React Native apps for agency clients. 
 
-**Recent work:** Production React Native apps · Women's health platform (wearable API integration) · Full-stack social media platform for the entertainment industry
+**What I work with:** Swift · SwiftUI · React Native · TypeScript · Node.js · Express · MongoDB · Supabase · AWS · Stripe · RevenueCat
 
-📎 [LinkedIn](https://linkedin.com/in/dan-pham-01) · 🌐 [Portfolio](https://dan-pham-portfolio.vercel.app)
+📎 [LinkedIn](https://linkedin.com/in/dan-pham-01) · 🌐 [Portfolio](https://dan-pham-portfolio.vercel.app) · 🍜 [Salt to Finish, my food blog](https://salttofinish.com)
